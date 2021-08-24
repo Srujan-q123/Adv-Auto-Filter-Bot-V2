@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/EE_Movies"
+                                    'Dev', url="https://t.me/Sruja_12"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/EE_Movies"
+                                    'Dev', url="https://t.me/SRUJA_12"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/EE_Movies"
+                                    'Dev', url="https://t.me/SRUJA_12"
                                 )
                         ]
                     ]
@@ -89,10 +89,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/EE_Movies'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/source_code_of_file_store_bot/2')
-    ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/EE_Movies')
+        InlineKeyboardButton('My Dev', url='https://t.me/EE_Movies'),
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
