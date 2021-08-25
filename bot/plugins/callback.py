@@ -1636,7 +1636,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/EE_Movies'),
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/sruja_12'),
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
